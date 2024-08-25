@@ -3,7 +3,7 @@ Welcome to **FLYX**, a powerful flight price predictor built using Python, Machi
 
 ## 🧠 Overview
 
-FLYX leverages the power of the **Random Forest algorithm** to predict flight prices based on various parameters. Whether you're planning a vacation or a business trip, FLYX helps you find the best time to book your flights by predicting future prices.
+FLYX leverages the power of the Random Forest algorithm to predict flight prices based on various parameters. Whether you're planning a vacation or a business trip, FLYX helps you to book your flights by predicting future prices.
 
 ## Video
 https://github.com/user-attachments/assets/932c17b5-e2a9-49b5-9414-5db47fd3e63e
