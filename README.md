@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/932c17b5-e2a9-49b5-9414-5db47fd3e63e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/FLYX.git
+   git clone https://github.com/rushikn/Flight-Price-Prediction-ML
 
 2. **Navigate to the project directory**:
     cd FLYX
